@@ -9,6 +9,9 @@
     "dev": "webpack-dev-server --progress --colors",
     "electron": "electron ."
   },
+  "electronDownload": {
+    "mirror": "https://npm.taobao.org/mirrors/electron/..."
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
